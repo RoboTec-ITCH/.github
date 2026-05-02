@@ -1,8 +1,15 @@
-<div align="center">
-  <h1>RoboTec</h1>
-  <p><b>Instituto Tecnológico de Chihuahua (ITCH)</b></p>
-  <p><i>Student Robotics Club</i></p>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.deno.dev/RoboTec-ITCH/count.svg" alt="Visitor's Count" />
 </div>
+
+<br>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Welcome+to+RoboTec!;Student+Robotics+Club;" />
+</h1>
+
+<p align="center"><b>Instituto Tecnológico de Chihuahua (ITCH)</b></p>
 
 ---
 
@@ -27,10 +34,16 @@ Besides building robots, we are passionate about growing the robotics community 
 * **Copa RoboTec:** Our robotics competition held in April, featuring standard categories.
 * **Desafío RoboTec:** A larger robotics event planned for November.
 
----
+<hr>
 
 <div align="center">
   <b>Contact Us</b><br>
   Chihuahua, Chihuahua, Mexico<br>
-  <a href="mailto:itch.robotics@gmail.com">Email</a> | <a href="https://instagram.com/itchrobotics">Instagram</a>
+  <br>
+  <a href="mailto:itch.robotics@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
+  </a>
+  <a href="https://instagram.com/itchrobotics" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
