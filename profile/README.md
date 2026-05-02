@@ -1,49 +1,62 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.deno.dev/RoboTec-ITCH/count.svg" alt="Visitor's Count" />
-</div>
-
-<br>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Welcome+to+RoboTec!;Student+Robotics+Club;" />
 </h1>
 
-<p align="center"><b>Instituto Tecnológico de Chihuahua (ITCH)</b></p>
+<br>
+
+<div align="center">
+  <p><b>Instituto Tecnológico de Chihuahua (ITCH) | Robotics Club</b></p>
+  <p>Founded in September 2023, we design, build, and compete with high-performance robotic systems while fostering open-source engineering among students.</p>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:itch.robotics@gmail.com"><img src="https://img.shields.io/badge/Email-itch.robotics%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://instagram.com/itchrobotics"><img src="https://img.shields.io/badge/Instagram-%40itchrobotics-E4405F?style=for-the-badge&logo=instagram"></a>
+  <img src="https://profile-counter.deno.dev/RoboTec-ITCH/count.svg" alt="Visitor Count">
+</div>
 
 ---
 
-## Who We Are
+## Core Engineering Categories
 
-Welcome to RoboTec! We are a student robotics club from the Instituto Tecnológico de Chihuahua (ITCH), officially founded in September 2023. Our main goal is to learn, work as a team, and put our engineering skills to the test by building functional robots.
-
-This GitHub organization is our central space to store, document, and share the code and hardware designs of the projects we create.
-
-## What We Do
-
-We focus on designing and building robots to participate in standard robotics competitions, as well as developing internal club projects. Our main activities include:
-
-* **Line Followers (Velocistas):** Designing fast autonomous robots to complete track circuits in the shortest time possible.
-* **Sumo and Mini Sumo:** Building high-torque robots designed to push opponents out of a competition ring (Dohyo).
-* **Club Projects:** We also work on special group projects to practice new skills, such as our tracked robot, "Robot Pantera".
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>High-Speed Line Followers</h3>
+      <p>Aerodynamic chassis design and advanced PID control algorithms for maximum track speed.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Combat Robotics</h3>
+      <p>High-torque differential drivetrains and robust structural engineering for Sumo & Mini Sumo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Aerospace & Drones</h3>
+      <p>Custom high-performance racing drones and real-time telemetry systems.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Applied Robotics</h3>
+      <p>Multi-terrain exploratory and functional units designed for hazardous environments.</p>
+    </td>
+  </tr>
+</table>
 
 ## Our Events
 
-Besides building robots, we are passionate about growing the robotics community in Chihuahua. We organize local events to bring students and tech enthusiasts together:
+Besides building robots, we are passionate about growing the robotics community in Chihuahua. We organize events to bring students and tech enthusiasts together:
 
 * **Copa RoboTec:** Our robotics competition held in April, featuring standard categories.
 * **Desafío RoboTec:** A larger robotics event planned for November.
+  
+---
 
-<hr>
+## Hardware & Software Stack
 
 <div align="center">
-  <b>Contact Us</b><br>
-  Chihuahua, Chihuahua, Mexico<br>
-  <br>
-  <a href="mailto:itch.robotics@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
-  </a>
-  <a href="https://instagram.com/itchrobotics" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,arduino,raspberrypi,git,github" alt="Tech Stack" />
 </div>
+
+<br>
