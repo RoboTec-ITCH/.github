@@ -56,7 +56,10 @@ Besides building robots, we are passionate about growing the robotics community 
 ## Hardware & Software Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,arduino,raspberrypi,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,arduino,raspberrypi,git,github" height="48" style="vertical-align:middle;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/solidworks.png" height="48" style="display:inline-block;background:#242938;border-radius:14px;padding:8px;margin:0 6px;vertical-align:middle;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kicad/ffffff" height="48" style="display:inline-block;background:#242938;border-radius:14px;padding:8px;margin:0 6px;vertical-align:middle;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/easyeda/ffffff" height="48" style="display:inline-block;background:#242938;border-radius:14px;padding:8px;margin:0 6px;vertical-align:middle;"/>
 </div>
 
 <br>
